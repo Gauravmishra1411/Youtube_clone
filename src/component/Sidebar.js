@@ -16,7 +16,7 @@ function Sidebar() {
        <Link to={"/"}> <IoMdHome/> HOME  </Link>
           </li>
           <li className='flex my-3'><SiYoutubeshorts/> SHORT</li>
-          <li className='flex'><i class="fa fa-subscript" aria-hidden="true"> subscriptions</i></li>
+          <li className='flex'><i className="fa fa-subscript" aria-hidden="true"> subscriptions</i></li>
         </ul>
 
       </div>
